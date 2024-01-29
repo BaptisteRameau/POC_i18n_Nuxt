@@ -1,6 +1,6 @@
 <template>
     <div class="text-h4 my-4">
-      Voici la définition de ce qu'est l'internationalisation i18n
+      {{ $t('title') }}
     </div>
     <FirstComponent />
 </template>
@@ -9,5 +9,4 @@
 definePageMeta({
   layout: "default-layout",
 });
-
 </script>

@@ -1,0 +1,8 @@
+{
+    "header": "POC using i18n with Nuxt",
+    "title": "Here is the definition of what internationalization (i18n) is",
+    "contents": {
+        "content1": "In software development, internationalization (abbreviated as i18n, where 18 represents the number of characters between i and n in the word) is the implementation of a system that allows the regionalization of the software, meaning its adaptation to different languages and cultures. The goal of internationalization is to produce a single program that can include multiple languages for the interface.",
+        "content2": "Internationalization is, therefore, the set of technical mechanisms that lead to a linguistically acceptable result in the language chosen by the end user. However, it may not be sufficient to handle 'any language' because the program uses a limited character set, or specific fonts, or because the user does not have the right keyboards for data input in one language or another."
+    }
+}
